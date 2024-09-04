@@ -1,5 +1,27 @@
 # CountryApp - Fundamentos de una aplicación SPA (Single Page Application)
 
+¿Qué veremos en esta aplicación?
+
+Este es un breve listado de los temas fundamentales:
+
+1. Rutas
+2. RouterLink y RouterLinkActive
+3. Componentes especializados
+4. DebounceTime
+5. Inputs
+6. SwitchMaps
+7. Consumo de APIs
+8. Tipado de datos
+9. Menú de aplicación
+10. ngClass y diferentes formas de manipular clases
+11. CSS condicionales
+12. Optimizaciones a peticiones HTTP
+13. Debounce manual mediante RxJs
+14. LocalStorage
+15. Ideas de Store
+16. Re-utilización de componentes
+17. Varios operadores de RxJS aplicados
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.8.
 
 ## Development server
